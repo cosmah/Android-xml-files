@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Androidxmlfiles" parent="Theme.AppCompat.Light.DarkActionBar">
+         Customize your light theme here.
+         <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.Androidxmlfiles" parent="Base.Theme.Androidxmlfiles" />
+</resources>
